@@ -1,2 +1,2 @@
 # Projeto-Golden-State
-Projeto de aprendizado HTML-CSS-JS
+Projeto de aprendizado HTML-CSS
